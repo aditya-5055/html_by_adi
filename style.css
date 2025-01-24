@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(23, 177, 77);
+}
+img:hover{
+    background-color:gold;
+}
+ /* we can give another colour of both image by uisng id and class */
+.first{
+    background-color: rgb(142, 92, 27);
+ } 
+  .second{
+    background-color: rgb(160, 83, 102);
+ }
+/* #dada{
+    background-color: rgb(146, 146, 121);
+}
+ #adi{
+    background-color: rgb(98, 0, 255);
+ } */
+/* here first priority is id and then class*/ 
+/* in image first priority is id then class and then img */
